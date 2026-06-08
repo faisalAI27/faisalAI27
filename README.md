@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Faisal Imran
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&lines=AI%2FML+Engineer+in+Progress;B.S.+Artificial+Intelligence+Student;Building+AI+and+Software+Systems;Learning+MLOps%2C+RAG%2C+LLMs+and+Deep+Learning)](https://git.io/typing-svg)
+
 🎓 **B.S. Artificial Intelligence Student at GIKI**  
 🤖 **Aspiring AI/ML Engineer | AI Builder**  
 📍 Pakistan  
@@ -39,6 +41,17 @@ My main interests include **Machine Learning, Deep Learning, MLOps, LLMs, RAG, A
 `Playwright` `BeautifulSoup` `Prefect` `Pytest` `REST APIs` `WebSockets`
 
 ---
+
+---
+
+## 📊 GitHub Stats
+
+![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalimran2023189&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalimran2023189&layout=compact&theme=tokyonight)
+
+
+
 
 ## 🎓 Education
 

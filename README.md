@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Faisal Imran
 
 🎓 **B.S. Artificial Intelligence Student at GIKI**  
-🤖 **Aspiring AI/ML Engineer | AI Builder | Software Engineering Enthusiast**  
+🤖 **Aspiring AI/ML Engineer | AI Builder**  
 📍 Pakistan  
 
 I am an Artificial Intelligence student passionate about building practical AI-powered systems that solve real-world problems. I enjoy working at the intersection of **Artificial Intelligence and Software Engineering**, where intelligent models are combined with useful applications, APIs, databases, automation workflows, and deployment tools.
@@ -17,7 +17,6 @@ My main interests include **Machine Learning, Deep Learning, MLOps, LLMs, RAG, A
 - 🔎 Exploring **LLMs, RAG systems, MLOps, Bioinformatics AI, Computer Vision, and Automation**
 - 🛠️ Experienced with both **AI model development** and **full-stack application development**
 - 🚀 Focused on improving my skills through hands-on projects, internships, research, and continuous learning
-- 🌍 Future goal: pursue a **Master’s degree in Artificial Intelligence** and work on impactful AI systems
 
 ---
 

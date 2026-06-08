@@ -44,10 +44,6 @@ My main interests include **Machine Learning, Deep Learning, MLOps, LLMs, RAG, A
 
 ---
 
----
-
----
-
 
 ## 🎓 Education
 

@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&lines=AI%2FML+Engineer+in+Progress;B.S.+Artificial+Intelligence+Student;Building+AI+and+Software+Systems;Learning+MLOps%2C+RAG%2C+LLMs+and+Deep+Learning)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=faisalAI27&style=for-the-badge)
+
 🎓 **B.S. Artificial Intelligence Student at GIKI**  
 🤖 **Aspiring AI/ML Engineer | AI Builder**  
 📍 Pakistan  

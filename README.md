@@ -67,12 +67,7 @@ My main interests include **Machine Learning, Deep Learning, MLOps, LLMs, RAG, A
 
 ---
 
-## 🏆 Achievements
 
-- 🏅 **Academic Distinction** — Awarded for exceptional academic performance in Spring 2024 with **GPA 3.59/4.00**
-- 🥉 **NeoHacks 3rd Place** — Secured **3rd place among 30+ competing teams** at NeoHacks organized by Precision Lab at GIKI
-
----
 
 ## 📫 Connect With Me
 

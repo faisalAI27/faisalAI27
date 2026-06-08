@@ -44,14 +44,17 @@ My main interests include **Machine Learning, Deep Learning, MLOps, LLMs, RAG, A
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalimran2023189&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalAI27&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalimran2023189&layout=compact&theme=tokyonight)
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalAI27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🎓 Education
 
@@ -73,7 +76,7 @@ My main interests include **Machine Learning, Deep Learning, MLOps, LLMs, RAG, A
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Imran-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faisal-imran-644088327/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-faisalimran2023189-black?style=for-the-badge&logo=github)](https://github.com/faisalimran2023189)
+[![GitHub](https://img.shields.io/badge/GitHub-faisalAI27-black?style=for-the-badge&logo=github)](https://github.com/faisalAI27)
 
 [![Email](https://img.shields.io/badge/Email-faisalimran2023189%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:faisalimran2023189@gmail.com)
 
